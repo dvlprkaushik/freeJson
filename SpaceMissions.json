@@ -1,0 +1,109 @@
+{
+    "missions": [
+      {
+        "id": 2001,
+        "missionName": "Mars Rover Exploration",
+        "agency": "NASA",
+        "launchDate": "2025-07-15",
+        "destination": "Mars",
+        "status": "In Progress",
+        "details": "Exploration mission to study Martian geology and climate.",
+        "crew": [
+          {
+            "name": "Alex Johnson",
+            "role": "Mission Commander",
+            "nationality": "American"
+          },
+          {
+            "name": "Maria Sanchez",
+            "role": "Chief Scientist",
+            "nationality": "Spanish"
+          },
+          {
+            "name": "Yuki Tanaka",
+            "role": "Robotics Engineer",
+            "nationality": "Japanese"
+          }
+        ]
+      },
+      {
+        "id": 2002,
+        "missionName": "Jupiter Orbiter",
+        "agency": "ESA",
+        "launchDate": "2026-03-20",
+        "destination": "Jupiter",
+        "status": "Planned",
+        "details": "Orbital mission to study Jupiter's atmosphere and magnetosphere.",
+        "crew": [
+          {
+            "name": "Sophie Müller",
+            "role": "Mission Specialist",
+            "nationality": "German"
+          },
+          {
+            "name": "Elena Petrov",
+            "role": "Astrophysicist",
+            "nationality": "Russian"
+          }
+        ]
+      },
+      {
+        "id": 2003,
+        "missionName": "Lunar Colony Establishment",
+        "agency": "SpaceX",
+        "launchDate": "2027-01-10",
+        "destination": "Moon",
+        "status": "Planned",
+        "details": "Establishing a sustainable lunar colony for scientific research and future missions.",
+        "crew": [
+          {
+            "name": "Chang Wei",
+            "role": "Chief Engineer",
+            "nationality": "Chinese"
+          },
+          {
+            "name": "Priya Patel",
+            "role": "Medical Officer",
+            "nationality": "Indian"
+          },
+          {
+            "name": "Liam Johnson",
+            "role": "Logistics Specialist",
+            "nationality": "Australian"
+          }
+        ]
+      },
+      {
+        "id": 2004,
+        "missionName": "Interstellar Probe",
+        "agency": "NASA",
+        "launchDate": "2030-05-05",
+        "destination": "Interstellar Space",
+        "status": "Concept Phase",
+        "details": "Proposed mission to send a probe beyond our solar system to study interstellar medium and cosmic rays.",
+        "crew": []
+      },
+      {
+        "id": 2005,
+        "missionName": "Europa Lander",
+        "agency": "ESA",
+        "launchDate": "2028-09-12",
+        "destination": "Europa",
+        "status": "Planned",
+        "details": "Landing mission to explore Europa's icy surface and subsurface ocean for signs of life.",
+        "crew": [
+          {
+            "name": "Luis Ramírez",
+            "role": "Planetary Geologist",
+            "nationality": "Mexican"
+          },
+          {
+            "name": "Aya Fujimoto",
+            "role": "Biochemist",
+            "nationality": "Japanese"
+          }
+        ]
+      }
+    ]
+  }
+  

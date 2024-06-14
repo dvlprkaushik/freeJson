@@ -1,0 +1,115 @@
+{
+    "cars": [
+      {
+        "id": 7001,
+        "brand": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "price": 24990,
+        "fuelType": "Gasoline",
+        "engine": "2.5L 4-cylinder",
+        "transmission": "Automatic",
+        "color": "Silver"
+      },
+      {
+        "id": 7002,
+        "brand": "Honda",
+        "model": "Civic",
+        "year": 2021,
+        "price": 21700,
+        "fuelType": "Gasoline",
+        "engine": "2.0L 4-cylinder",
+        "transmission": "CVT",
+        "color": "Red"
+      },
+      {
+        "id": 7003,
+        "brand": "Ford",
+        "model": "F-150",
+        "year": 2023,
+        "price": 36500,
+        "fuelType": "Gasoline",
+        "engine": "3.5L V6",
+        "transmission": "Automatic",
+        "color": "Blue"
+      },
+      {
+        "id": 7004,
+        "brand": "Chevrolet",
+        "model": "Malibu",
+        "year": 2022,
+        "price": 28500,
+        "fuelType": "Gasoline",
+        "engine": "1.5L 4-cylinder",
+        "transmission": "Automatic",
+        "color": "White"
+      },
+      {
+        "id": 7005,
+        "brand": "Tesla",
+        "model": "Model 3",
+        "year": 2023,
+        "price": 49990,
+        "fuelType": "Electric",
+        "engine": "Electric Motor",
+        "transmission": "Automatic",
+        "color": "Black"
+      },
+      {
+        "id": 7006,
+        "brand": "BMW",
+        "model": "X5",
+        "year": 2022,
+        "price": 58900,
+        "fuelType": "Gasoline",
+        "engine": "3.0L Inline-6",
+        "transmission": "Automatic",
+        "color": "Gray"
+      },
+      {
+        "id": 7007,
+        "brand": "Mercedes-Benz",
+        "model": "E-Class",
+        "year": 2023,
+        "price": 64900,
+        "fuelType": "Gasoline",
+        "engine": "3.0L Inline-6",
+        "transmission": "Automatic",
+        "color": "Silver"
+      },
+      {
+        "id": 7008,
+        "brand": "Audi",
+        "model": "Q5",
+        "year": 2022,
+        "price": 55900,
+        "fuelType": "Gasoline",
+        "engine": "2.0L 4-cylinder",
+        "transmission": "Automatic",
+        "color": "Blue"
+      },
+      {
+        "id": 7009,
+        "brand": "Hyundai",
+        "model": "Tucson",
+        "year": 2021,
+        "price": 26700,
+        "fuelType": "Gasoline",
+        "engine": "2.5L 4-cylinder",
+        "transmission": "Automatic",
+        "color": "Red"
+      },
+      {
+        "id": 7010,
+        "brand": "Kia",
+        "model": "Sportage",
+        "year": 2023,
+        "price": 28900,
+        "fuelType": "Gasoline",
+        "engine": "2.4L 4-cylinder",
+        "transmission": "Automatic",
+        "color": "Green"
+      }
+    ]
+  }
+  

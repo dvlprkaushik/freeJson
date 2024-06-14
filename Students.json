@@ -1,0 +1,84 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Emma Johnson",
+      "age": 20,
+      "major": "Computer Science",
+      "gpa": 3.8,
+      "courses": ["Data Structures", "Algorithms", "Database Systems"]
+    },
+    {
+      "id": 2,
+      "name": "Michael Smith",
+      "age": 21,
+      "major": "Engineering",
+      "gpa": 3.5,
+      "courses": ["Mechanics", "Thermodynamics", "Electrical Circuits"]
+    },
+    {
+      "id": 3,
+      "name": "Sophia Williams",
+      "age": 19,
+      "major": "Biology",
+      "gpa": 3.9,
+      "courses": ["Genetics", "Microbiology", "Anatomy"]
+    },
+    {
+      "id": 4,
+      "name": "Daniel Brown",
+      "age": 22,
+      "major": "Business Administration",
+      "gpa": 3.6,
+      "courses": ["Marketing", "Finance", "Operations Management"]
+    },
+    {
+      "id": 5,
+      "name": "Olivia Davis",
+      "age": 20,
+      "major": "Psychology",
+      "gpa": 3.7,
+      "courses": ["Behavioral Psychology", "Cognitive Neuroscience", "Developmental Psychology"]
+    },
+    {
+      "id": 6,
+      "name": "James Wilson",
+      "age": 21,
+      "major": "Art History",
+      "gpa": 3.4,
+      "courses": ["Renaissance Art", "Modern Art", "Asian Art"]
+    },
+    {
+      "id": 7,
+      "name": "Emily Moore",
+      "age": 19,
+      "major": "English Literature",
+      "gpa": 3.8,
+      "courses": ["Shakespearean Literature", "Victorian Fiction", "American Poetry"]
+    },
+    {
+      "id": 8,
+      "name": "Alexander Taylor",
+      "age": 20,
+      "major": "Political Science",
+      "gpa": 3.9,
+      "courses": ["International Relations", "Comparative Politics", "Public Policy"]
+    },
+    {
+      "id": 9,
+      "name": "Ava Anderson",
+      "age": 22,
+      "major": "History",
+      "gpa": 3.5,
+      "courses": ["Ancient History", "Medieval Europe", "20th Century World"]
+    },
+    {
+      "id": 10,
+      "name": "William Martinez",
+      "age": 21,
+      "major": "Physics",
+      "gpa": 3.7,
+      "courses": ["Quantum Mechanics", "Electrodynamics", "Astrophysics"]
+    }
+  ]
+}

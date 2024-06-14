@@ -1,0 +1,85 @@
+{
+    "teams": [
+      {
+        "id": 5001,
+        "name": "Real Madrid CF",
+        "sport": "Football",
+        "league": "La Liga",
+        "country": "Spain",
+        "established": 1902
+      },
+      {
+        "id": 5002,
+        "name": "New York Yankees",
+        "sport": "Baseball",
+        "league": "MLB",
+        "country": "United States",
+        "established": 1901
+      },
+      {
+        "id": 5003,
+        "name": "Los Angeles Lakers",
+        "sport": "Basketball",
+        "league": "NBA",
+        "country": "United States",
+        "established": 1947
+      },
+      {
+        "id": 5004,
+        "name": "Toronto Maple Leafs",
+        "sport": "Ice Hockey",
+        "league": "NHL",
+        "country": "Canada",
+        "established": 1917
+      },
+      {
+        "id": 5005,
+        "name": "Ferrari",
+        "sport": "Formula 1",
+        "league": "F1",
+        "country": "Italy",
+        "established": 1929
+      },
+      {
+        "id": 5006,
+        "name": "Brazil National Football Team",
+        "sport": "Football",
+        "league": "FIFA",
+        "country": "Brazil",
+        "established": 1914
+      },
+      {
+        "id": 5007,
+        "name": "Manchester United FC",
+        "sport": "Football",
+        "league": "Premier League",
+        "country": "England",
+        "established": 1878
+      },
+      {
+        "id": 5008,
+        "name": "Boston Celtics",
+        "sport": "Basketball",
+        "league": "NBA",
+        "country": "United States",
+        "established": 1946
+      },
+      {
+        "id": 5009,
+        "name": "Dallas Cowboys",
+        "sport": "American Football",
+        "league": "NFL",
+        "country": "United States",
+        "established": 1960
+      },
+      {
+        "id": 5010,
+        "name": "Chicago Cubs",
+        "sport": "Baseball",
+        "league": "MLB",
+        "country": "United States",
+        "established": 1870
+      }
+    ]
+  }
+  

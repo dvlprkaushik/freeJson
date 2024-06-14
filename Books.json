@@ -1,0 +1,85 @@
+{
+    "books": [
+      {
+        "id": 1001,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "year": 1960,
+        "pages": 336
+      },
+      {
+        "id": 1002,
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian Fiction",
+        "year": 1949,
+        "pages": 328
+      },
+      {
+        "id": 1003,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic Literature",
+        "year": 1925,
+        "pages": 180
+      },
+      {
+        "id": 1004,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romantic Fiction",
+        "year": 1813,
+        "pages": 432
+      },
+      {
+        "id": 1005,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "year": 1997,
+        "pages": 320
+      },
+      {
+        "id": 1006,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Coming-of-Age Fiction",
+        "year": 1951,
+        "pages": 224
+      },
+      {
+        "id": 1007,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "year": 1937,
+        "pages": 310
+      },
+      {
+        "id": 1008,
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "genre": "Adventure Fiction",
+        "year": 1851,
+        "pages": 624
+      },
+      {
+        "id": 1009,
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "year": 1954,
+        "pages": 1178
+      },
+      {
+        "id": 1010,
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "genre": "Gothic Fiction",
+        "year": 1818,
+        "pages": 280
+      }
+    ]
+  }
+  

@@ -1,0 +1,75 @@
+{
+    "countries": [
+      {
+        "name": "United States",
+        "capital": "Washington, D.C.",
+        "population": 331000000,
+        "language": "English",
+        "currency": "US Dollar"
+      },
+      {
+        "name": "China",
+        "capital": "Beijing",
+        "population": 1441000000,
+        "language": "Mandarin",
+        "currency": "Renminbi"
+      },
+      {
+        "name": "India",
+        "capital": "New Delhi",
+        "population": 1393000000,
+        "language": "Hindi",
+        "currency": "Indian Rupee"
+      },
+      {
+        "name": "Brazil",
+        "capital": "Brasília",
+        "population": 213800000,
+        "language": "Portuguese",
+        "currency": "Brazilian Real"
+      },
+      {
+        "name": "Russia",
+        "capital": "Moscow",
+        "population": 146700000,
+        "language": "Russian",
+        "currency": "Russian Ruble"
+      },
+      {
+        "name": "Germany",
+        "capital": "Berlin",
+        "population": 83100000,
+        "language": "German",
+        "currency": "Euro"
+      },
+      {
+        "name": "United Kingdom",
+        "capital": "London",
+        "population": 66400000,
+        "language": "English",
+        "currency": "Pound Sterling"
+      },
+      {
+        "name": "Japan",
+        "capital": "Tokyo",
+        "population": 126300000,
+        "language": "Japanese",
+        "currency": "Yen"
+      },
+      {
+        "name": "Australia",
+        "capital": "Canberra",
+        "population": 25400000,
+        "language": "English",
+        "currency": "Australian Dollar"
+      },
+      {
+        "name": "South Africa",
+        "capital": "Pretoria, Bloemfontein, Cape Town",
+        "population": 60000000,
+        "language": "Afrikaans, English, Zulu, Xhosa",
+        "currency": "South African Rand"
+      }
+    ]
+  }
+  

@@ -1,0 +1,75 @@
+{
+    "recipes": [
+      {
+        "id": 3001,
+        "title": "Spaghetti Carbonara",
+        "category": "Italian Cuisine",
+        "ingredients": ["Spaghetti", "Pancetta", "Egg", "Parmesan Cheese", "Black Pepper"],
+        "instructions": "Cook spaghetti. Fry pancetta until crispy. Mix egg and parmesan. Toss with spaghetti and pancetta. Season with black pepper."
+      },
+      {
+        "id": 3002,
+        "title": "Chicken Tikka Masala",
+        "category": "Indian Cuisine",
+        "ingredients": ["Chicken", "Yogurt", "Tomato Sauce", "Spices", "Cream"],
+        "instructions": "Marinate chicken in yogurt and spices. Grill until cooked. Simmer in tomato sauce and cream."
+      },
+      {
+        "id": 3003,
+        "title": "Tacos al Pastor",
+        "category": "Mexican Cuisine",
+        "ingredients": ["Pork", "Pineapple", "Onion", "Cilantro", "Corn Tortilla"],
+        "instructions": "Marinate pork with pineapple and spices. Grill and slice. Serve on corn tortilla with pineapple, onion, and cilantro."
+      },
+      {
+        "id": 3004,
+        "title": "Sushi Rolls",
+        "category": "Japanese Cuisine",
+        "ingredients": ["Sushi Rice", "Nori Seaweed", "Fish (Salmon, Tuna)", "Avocado", "Cucumber"],
+        "instructions": "Spread sushi rice on nori. Add fish, avocado, and cucumber. Roll tightly. Slice and serve with soy sauce and wasabi."
+      },
+      {
+        "id": 3005,
+        "title": "Chocolate Cake",
+        "category": "Dessert",
+        "ingredients": ["Flour", "Sugar", "Cocoa Powder", "Eggs", "Butter"],
+        "instructions": "Mix dry ingredients. Beat eggs and sugar. Add butter and cocoa. Bake until done. Frost if desired."
+      },
+      {
+        "id": 3006,
+        "title": "Caesar Salad",
+        "category": "Salad",
+        "ingredients": ["Romaine Lettuce", "Croutons", "Parmesan Cheese", "Caesar Dressing", "Anchovies"],
+        "instructions": "Toss lettuce with croutons, parmesan, and dressing. Garnish with anchovies. Serve chilled."
+      },
+      {
+        "id": 3007,
+        "title": "Beef Stroganoff",
+        "category": "Russian Cuisine",
+        "ingredients": ["Beef", "Mushrooms", "Onion", "Sour Cream", "Egg Noodles"],
+        "instructions": "Sauté beef and onion. Add mushrooms. Stir in sour cream. Serve over cooked egg noodles."
+      },
+      {
+        "id": 3008,
+        "title": "Pad Thai",
+        "category": "Thai Cuisine",
+        "ingredients": ["Rice Noodles", "Shrimp", "Tofu", "Bean Sprouts", "Peanuts"],
+        "instructions": "Soak noodles. Sauté shrimp and tofu. Add noodles and sauce. Toss with bean sprouts and peanuts."
+      },
+      {
+        "id": 3009,
+        "title": "Gazpacho",
+        "category": "Spanish Cuisine",
+        "ingredients": ["Tomatoes", "Cucumber", "Bell Pepper", "Onion", "Garlic"],
+        "instructions": "Blend tomatoes, cucumber, pepper, onion, and garlic. Chill. Serve cold with a drizzle of olive oil."
+      },
+      {
+        "id": 3010,
+        "title": "Moussaka",
+        "category": "Greek Cuisine",
+        "ingredients": ["Eggplant", "Ground Lamb", "Tomato Sauce", "Bechamel Sauce", "Cheese"],
+        "instructions": "Layer eggplant with lamb, tomato sauce, and bechamel. Bake until golden. Sprinkle with cheese."
+      }
+    ]
+  }
+  

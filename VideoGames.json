@@ -1,0 +1,85 @@
+{
+    "games": [
+      {
+        "id": 6001,
+        "title": "The Legend of Zelda: Breath of the Wild",
+        "platform": "Nintendo Switch",
+        "genre": "Action-Adventure",
+        "releaseYear": 2017,
+        "rating": 4.7
+      },
+      {
+        "id": 6002,
+        "title": "Red Dead Redemption 2",
+        "platform": "PlayStation 4, Xbox One, PC",
+        "genre": "Action-Adventure",
+        "releaseYear": 2018,
+        "rating": 4.8
+      },
+      {
+        "id": 6003,
+        "title": "The Witcher 3: Wild Hunt",
+        "platform": "PlayStation 4, Xbox One, Nintendo Switch, PC",
+        "genre": "Action-RPG",
+        "releaseYear": 2015,
+        "rating": 4.9
+      },
+      {
+        "id": 6004,
+        "title": "Super Mario Odyssey",
+        "platform": "Nintendo Switch",
+        "genre": "Platformer",
+        "releaseYear": 2017,
+        "rating": 4.8
+      },
+      {
+        "id": 6005,
+        "title": "Overwatch",
+        "platform": "PlayStation 4, Xbox One, PC",
+        "genre": "First-Person Shooter",
+        "releaseYear": 2016,
+        "rating": 4.5
+      },
+      {
+        "id": 6006,
+        "title": "Fortnite",
+        "platform": "PlayStation 4, Xbox One, Nintendo Switch, PC, Mobile",
+        "genre": "Battle Royale",
+        "releaseYear": 2017,
+        "rating": 4.6
+      },
+      {
+        "id": 6007,
+        "title": "Grand Theft Auto V",
+        "platform": "PlayStation 4, Xbox One, PC",
+        "genre": "Action-Adventure",
+        "releaseYear": 2013,
+        "rating": 4.8
+      },
+      {
+        "id": 6008,
+        "title": "Minecraft",
+        "platform": "PlayStation 4, Xbox One, Nintendo Switch, PC, Mobile",
+        "genre": "Sandbox",
+        "releaseYear": 2011,
+        "rating": 4.7
+      },
+      {
+        "id": 6009,
+        "title": "League of Legends",
+        "platform": "PC",
+        "genre": "MOBA",
+        "releaseYear": 2009,
+        "rating": 4.6
+      },
+      {
+        "id": 6010,
+        "title": "Animal Crossing: New Horizons",
+        "platform": "Nintendo Switch",
+        "genre": "Life Simulation",
+        "releaseYear": 2020,
+        "rating": 4.7
+      }
+    ]
+  }
+  

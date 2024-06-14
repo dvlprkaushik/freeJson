@@ -1,0 +1,85 @@
+{
+    "employees": [
+      {
+        "id": 101,
+        "name": "Sarah Johnson",
+        "department": "Human Resources",
+        "position": "HR Manager",
+        "salary": 70000,
+        "joining_date": "2018-05-15"
+      },
+      {
+        "id": 102,
+        "name": "David Smith",
+        "department": "Marketing",
+        "position": "Marketing Specialist",
+        "salary": 65000,
+        "joining_date": "2019-02-28"
+      },
+      {
+        "id": 103,
+        "name": "Jennifer Williams",
+        "department": "Finance",
+        "position": "Financial Analyst",
+        "salary": 75000,
+        "joining_date": "2017-09-10"
+      },
+      {
+        "id": 104,
+        "name": "James Brown",
+        "department": "IT",
+        "position": "Software Engineer",
+        "salary": 80000,
+        "joining_date": "2020-07-20"
+      },
+      {
+        "id": 105,
+        "name": "Emma Davis",
+        "department": "Sales",
+        "position": "Sales Manager",
+        "salary": 85000,
+        "joining_date": "2016-11-05"
+      },
+      {
+        "id": 106,
+        "name": "Daniel Wilson",
+        "department": "Operations",
+        "position": "Operations Manager",
+        "salary": 90000,
+        "joining_date": "2015-03-12"
+      },
+      {
+        "id": 107,
+        "name": "Olivia Moore",
+        "department": "Customer Service",
+        "position": "Customer Support Specialist",
+        "salary": 60000,
+        "joining_date": "2021-01-25"
+      },
+      {
+        "id": 108,
+        "name": "Alexander Taylor",
+        "department": "Legal",
+        "position": "Legal Counsel",
+        "salary": 100000,
+        "joining_date": "2014-08-18"
+      },
+      {
+        "id": 109,
+        "name": "Ava Anderson",
+        "department": "Research & Development",
+        "position": "Research Scientist",
+        "salary": 95000,
+        "joining_date": "2019-12-03"
+      },
+      {
+        "id": 110,
+        "name": "William Martinez",
+        "department": "Engineering",
+        "position": "Engineering Manager",
+        "salary": 105000,
+        "joining_date": "2013-06-30"
+      }
+    ]
+  }
+  
